@@ -1,0 +1,23 @@
+h1, p {
+  font-family: Lato;
+}
+#header{
+  background-color: #ff6d00;
+}
+#outlined-basic{
+  background-color:#ff6d00 ;
+
+}
+#right{
+  background-color: #212121;
+  color: #fafafa;
+}
+#outlined-right{
+  background-color: #ff6d00;
+
+}
+#box{
+  width: 400px;
+  height: 10px;
+  background-color: #ff6d00;
+}
